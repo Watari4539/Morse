@@ -1,4 +1,4 @@
-# Morse Code Learning Tool - iOS 📡
+# Morse Code Learning Tool - iOS 
 
 Una aplicación interactiva para iOS diseñada para aprender y practicar código Morse de manera visual y auditiva. Este proyecto replica la estética de una placa de circuito impreso (PCB) real, permitiendo al usuario navegar a través de un árbol dicotómico de letras mediante pulsaciones de telégrafo en tiempo real.
 
